@@ -13,11 +13,11 @@ const renderCharacter = async () => {
     if (character) {
         document.getElementById('image').src = character.image;
         document.getElementById('name').textContent = character.name;
-        document.getElementById('element').textContent = character.element;
-        document.getElementById('weapon').textContent = character.weapon;
-        document.getElementById('playstyle').textContent = character.playstyle;
-        document.getElementById('talent_priority').textContent = character.talent_priority;
-        document.getElementById('recommended_weapons').textContent = character.recommended_weapons;
+        document.getElementById('element').textContent = `Element: ${character.element}`;
+        document.getElementById('weapon').textContent = `Weapon: ${character.weapon}`;
+        document.getElementById('playstyle').textContent = `Playstyle: ${character.playstyle}`;
+        document.getElementById('talent_priority').textContent = `Talent Priority: ${character.talent_priority}`;
+        document.getElementById('recommended_weapons').textContent = `Recommended Weapons: ${character.recommended_weapons}`;
     } else {
         const errorMessage = document.createElement('p');
         errorMessage.textContent = 'Character not found';

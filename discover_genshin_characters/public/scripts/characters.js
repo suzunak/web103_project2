@@ -4,10 +4,11 @@ const renderCharacters = async () => {
 
     const mainContent = document.getElementById('main-content');
 
-    if (data) {
+    if (Array.isArray(data)) {
         data.forEach(character => {
             const characterCard = document.createElement('div');
             characterCard.className = 'card';
+            characterCard.dataset.element = character.element?.toLowerCase();
 
             const topContainer = document.createElement('div');
             topContainer.className = 'top-container';
@@ -47,8 +48,10 @@ const renderCharacters = async () => {
             mainContent.appendChild(characterCard);
         })
     } else {
+        console.error('Failed to load characters:', data);
         const errorMessage = document.createElement('h2');
         errorMessage.textContent = 'No characters found';
+        mainContent.appendChild(errorMessage);
     }
 }
 

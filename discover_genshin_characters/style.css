@@ -97,3 +97,9 @@ body #character-content, body .fof-container {
   grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
   gap: 2rem;
 }
+
+#filter-container {
+  width: 20vw;
+  max-width: 30%;
+  margin-left: 4rem;
+}
