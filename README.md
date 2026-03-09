@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Gif is not loading](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFidzZhcWFudnc5OXh2enhwdWZkbzlna25qcDBla3hyYmx2MjltcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/81EBTKFdvvr6d3V0AC/giphy.gif)
+[Better video quality](https://www.capcut.com/sv2/ZT9dxN5qjJBgE-a71TX/)
 
 <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFidzZhcWFudnc5OXh2enhwdWZkbzlna25qcDBla3hyYmx2MjltcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/81EBTKFdvvr6d3V0AC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
