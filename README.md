@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Better video quality](https://www.capcut.com/sv2/ZT9dxN5qjJBgE-a71TX/)
+[Better video quality](https://drive.google.com/file/d/1rpWoHNrK7NZ90mkotwDnRIVRKP6fySex/view?usp=sharing)
 
 <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFidzZhcWFudnc5OXh2enhwdWZkbzlna25qcDBla3hyYmx2MjltcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/81EBTKFdvvr6d3V0AC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
